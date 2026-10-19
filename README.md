@@ -21,7 +21,15 @@ Todas las versiones están en [Releases](https://github.com/josefran-dev/vitrina
 
 ## Prueba gratis y licencia
 
-Puedes probarla gratis con hasta **20 productos** (los PDF llevan la marca «Versión de prueba»). Para quitar el límite y la marca de agua necesitas una **licencia de pago único**, sin mensualidades. Dentro de la app, en **Activar licencia**, verás el *código de tu computadora*: envíalo a quien te vendió Vitrina para recibir tu clave.
+Puedes probarla gratis con hasta **20 productos** (los PDF llevan la marca «Versión de prueba»). Para quitar el límite y la marca de agua necesitas una **licencia de pago único**, sin mensualidades.
+
+## Comprar tu licencia
+
+Los precios se manejan **por privado**: escríbenos por WhatsApp.
+
+**📱 [+52 662 120 9640](https://wa.me/526621209640?text=Hola%2C%20me%20interesa%20Vitrina%20y%20quiero%20saber%20el%20precio.)**
+
+Cuando tengas Vitrina instalada, entra a **Activar licencia**: ahí verás el *código de tu computadora*. Envíanoslo por WhatsApp y te damos tu clave.
 
 ## Qué contiene este repositorio
 
