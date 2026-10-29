@@ -17,7 +17,7 @@ Todas las versiones están en [Releases](https://github.com/josefran-dev/vitrina
 
 **Windows:** abre el instalador. Si aparece *«Windows protegió su PC»*, toca **Más información** y luego **Ejecutar de todos modos**. Sale porque Vitrina es un programa nuevo; es seguro.
 
-**Mac:** abre el `.dmg` y arrastra Vitrina a Aplicaciones. Si macOS no la deja abrir, ve a *Ajustes › Privacidad y seguridad* y toca **Abrir de todos modos**.
+**Mac:** abre el `.dmg` y arrastra Vitrina a Aplicaciones. Si macOS no la deja abrir, ve a *Ajustes › Privacidad y seguridad* y toca **Abrir de todos modos**. Si dice que «está dañada», abre la Terminal y pega: `xattr -dr com.apple.quarantine /Applications/Vitrina.app`
 
 ## Prueba gratis y licencia
 
