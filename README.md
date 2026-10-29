@@ -2,7 +2,7 @@
 
 **Tu catálogo de productos en PDF, listo para WhatsApp.**
 
-Vitrina es una aplicación de escritorio para **Windows y Mac** donde cargas tus productos una sola vez (fotos, descripción y precio) y ella arma el catálogo por ti: con portada, estilos, precios de contado, MSI o a crédito, y un botón «Pedir por WhatsApp» en cada producto. Funciona **sin internet** y tus datos se guardan en tu propia computadora.
+Vitrina es una aplicación de escritorio para **Windows y Mac** donde cargas tus productos una sola vez (fotos, descripción y precio) y ella arma el catálogo por ti: con portada, estilos, precios de contado, mayoreo o a crédito (semanal, quincenal o mensual), y un botón «Pedir por WhatsApp» en cada producto. Funciona **sin internet** y tus datos se guardan en tu propia computadora.
 
 ## Descargar
 
